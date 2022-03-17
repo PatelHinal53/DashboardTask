@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+
+	<color name="colorBlack">#000000</color>
+	<color name="darkBlue">#2c62ff</color>
+	<color name="white">#ffffff</color>
+	<color name="lightBlue">#ccd9ff</color>
+	<color name="progressBar">#618aff</color>
+	<color name="lightBlack">#c3c3c4</color>
+	<color name="tometo">#ff5e5b</color>
+	<color name="textcolorBlack">#3f3f3f</color>
+	<color name="black">#191919</color>
+	<color name="yellow">#fbb41a</color>
+	<color name="green">#2bc999</color>
+	<color name="skyBlue">#34afff</color>
+</resources>
